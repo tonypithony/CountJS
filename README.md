@@ -1,1 +1,1 @@
-# CountJS
+# Just for fun
